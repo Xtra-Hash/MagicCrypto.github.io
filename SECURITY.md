@@ -5,9 +5,11 @@ Version: 1.0
 1. Purpose
 
 The purpose of this Security Policy is to establish a framework for protecting the information assets of [Xtra-Hash] and to ensure the confidentiality, integrity, and availability of information. This policy aims to mitigate risks associated with data breaches, unauthorized access, and other security threats.
+
 2. Scope
 
 This policy applies to all employees, contractors, and third-party service providers who access, manage, or store information on behalf of [Xtra-Hash]. It covers all information systems, networks, and data owned or managed by the organization.
+
 3. Information Security Objectives
 
     Protect sensitive information from unauthorized access, disclosure, alteration, and destruction.
@@ -59,6 +61,7 @@ This policy applies to all employees, contractors, and third-party service provi
 11. Exceptions
 
 Any exceptions to this policy must be documented and approved by the ISO.
+
 12. Policy Review
 
 This policy will be reviewed annually and updated as necessary to ensure its effectiveness and relevance.
